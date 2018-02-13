@@ -6,6 +6,8 @@ public class Main {
 
         System.out.print("Enter a hexadecimal number: ");
 
+        //this is a test comment
+
         String input;
         char digit;
         long finalNum = 0;
